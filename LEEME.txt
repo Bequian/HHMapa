@@ -1,0 +1,34 @@
+HH Mapa - HustlinHitmans
+========================
+
+Muestra a los miembros de la hermandad que tienen el addon en el mapa del mundo y en el minimapa.
+
+INSTALACIÓN
+  Copia la carpeta "HHMapa" dentro de:  World of Warcraft\_<versión>_\Interface\AddOns\
+  (La carpeta debe llamarse exactamente HHMapa).
+  Recomendado: tener NovaWorldBuffs instalado. HH Mapa lee el layer desde ahí.
+
+QUÉ SE VE
+  - Un ícono redondo de su clase por cada miembro.
+  - El Líder de la hermandad lleva anillo dorado y corona.
+  - Si alguien está en OTRO layer que tú, su ícono se ve gris y transparente.
+  - Clic derecho sobre un ícono (mapa, minimapa o lista): Enviar mensaje privado,
+    Invitar al grupo o Invitar a la banda.
+  - Si pasas el mouse sobre un punto ves: nombre, nivel, clase, layer y zona
+    (y los demás miembros que estén encima del mismo punto).
+
+BOTÓN EN EL MAPA (esquina superior derecha del mapa)
+  - Clic izquierdo: lista de miembros en la zona que estás mirando
+    (nombre con color de clase, nivel y layer). Clic en un nombre = susurrar,
+    clic derecho = menú.
+  - Clic derecho: ocultar o mostrar los iconos del mapa.
+  - El número sobre el botón indica cuántos miembros hay en esa zona.
+
+COMANDOS
+  /hhm             abre las opciones
+  /hhm mapa        muestra/oculta iconos en el mapa
+  /hhm mini        muestra/oculta iconos en el minimapa
+  /hhm lista       abre/cierra la lista de la zona
+  /hhm compartir   activa/desactiva compartir tu posición
+  /hhm layer       muestra tu layer actual
+  /hhm quien       lista quiénes tienen el addon y se están viendo

@@ -1,0 +1,6 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <!-- Plantilla del pin del mapa del mundo. El mixin se crea en HHMapa_Map.lua -->
+    <Frame name="HHMapaPinTemplate" mixin="HHMapaPinMixin" enableMouse="true" virtual="true">
+        <Size x="14" y="14"/>
+    </Frame>
+</Ui>

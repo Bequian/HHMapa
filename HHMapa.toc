@@ -1,0 +1,14 @@
+## Interface: 11509,16001,20505,50500,70009,120100
+## Title: |cffd4af37HH|r Mapa
+## Notes: Muestra a los miembros de HustlinHitmans en el mapa y el minimapa.
+## Author: Angelo Benvenuto
+## Version: 1.1.0
+## SavedVariables: HHMapaDB
+## OptionalDeps: NovaWorldBuffs
+## IconTexture: Interface\Icons\INV_Shirt_GuildTabard_01
+
+HHMapa.lua
+HHMapa_Map.lua
+HHMapa_Minimap.lua
+HHMapa_Menu.lua
+HHMapa.xml
